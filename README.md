@@ -1,4 +1,4 @@
-# <img src="https://img.icons8.com/plasticine/100/shopping-basket-2.png" width="40" /> MessMate (KibandaPOS) 💸 (v2.2)
+# <img src="https://img.icons8.com/plasticine/100/shopping-basket-2.png" width="40" /> MessMate (KibandaPOA) 💸 (v2.2)
 
 [![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
@@ -18,22 +18,20 @@ Get a high-level overview of your mess financial health. The dashboard calculate
 ### 🗓️ Advanced Bajar Records
 Manage your historical data like a pro. Filter records by date ranges (e.g., full month of February), search for specific items, and **Export everything to Excel** with one click.
 
-![Bajar Records](Screenshot/BajarRecords.png)
 
 ### 🛒 Multi-Payer Entry System
 Log your expenses with ease. The system allows multiple members to contribute to a single bazaar trip, automatically calculating the total cost.
 
-![Add Expense](Screenshot/AddExpense.png)
 
 ### 👥 Member Management
 Easily add, edit, or remove mess members. The entire system's calculations (shares and balances) update in real-time.
 
-![Manage Members](Screenshot/ManageMembers.png)
+
 
 ### ⚙️ Personalized Settings
 Switch between **Light** and **Dark** modes, change your preferred currency (৳, ₹, $), and manage your localization settings.
 
-![Settings](Screenshot/Settings.png)
+
 
 ---
 
@@ -46,9 +44,7 @@ No need to open a terminal! We have built a dedicated runner for you:
    - *It will automatically check for Node.js, install dependencies on the first run, and launch the server.*
 3. Open `http://localhost:5173` in your browser.
 
-![Console Runner](Screenshot/bat.png)
 
----
 
 ## 🛠️ Tech Stack
 
@@ -72,19 +68,10 @@ No need to open a terminal! We have built a dedicated runner for you:
 ---
 
 ### 👨‍💻 Developed By
-**Engr Shuvo Das**
+**mwakidenis**
 
 | Platform | Link |
 | :--- | :--- |
-| **WhatsApp** | [Chat Now](https://wa.me/+8801765245872) |
-| **LinkedIn** | [Profile](https://www.linkedin.com/in/engrshuvoda/) |
-| **YouTube** | [Channel](https://www.youtube.com/channel/UCEJ0R871tF2PLT27q9azYWg) |
-| **GitHub** | [Repositories](https://github.com/engrshuvodas) |
-| **Fiverr** | [Hire Me](https://www.fiverr.com/shuvo_das74886) |
-| **Portfolio** | [About Me](https://engrshuvodas.github.io/me/) |
-| **Email** | [engrshuvoda@gmail.com](mailto:engrshuvoda@gmail.com) |
-| **X (Twitter)** | [@engrshuvodas](https://x.com/engrshuvodas) |
-| **Facebook** | [Engr Shuvo](https://www.facebook.com/engr.shuvo74886/) |
+| **WhatsApp** | [Chat Now](https://wa.me/+254798750585) |
 
----
-*Created with ❤️ for Mess Managers everywhere. v2.1 (February 2026)*
+*Created with ❤️ for Mess Managers everywhere. v2.2 (March 2026)*
