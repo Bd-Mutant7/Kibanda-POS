@@ -13,9 +13,8 @@ Welcome to **KibandaPOS**, a premium and advanced utility designed for students 
 ### 📊 Multi-Functional Dashboard
 Get a high-level overview of your mess financial health. The dashboard calculates the **total expense**, **per-person share**, and provides a **Settlement Plan** to clear debts instantly.
 
-![Dashboard Preview](Screenshot/Dashboard.png)
 
-### 🗓️ Advanced Bajar Records
+### 🗓️ Advanced Kibanda Records
 Manage your historical data like a pro. Filter records by date ranges (e.g., full month of February), search for specific items, and **Export everything to Excel** with one click.
 
 
