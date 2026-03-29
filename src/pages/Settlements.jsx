@@ -1,4 +1,4 @@
-/** Software Version: 2.2 | Dev: Engr Shuvo Das **/
+/** Software Version: 2.2 | Dev: mwakidenis **/
 import React, { useContext, useMemo, useState } from 'react';
 import { Card, Table, Typography, Space, Button, Tag, Row, Col, Divider, Modal, Tooltip, Badge, Avatar } from 'antd';
 import {
@@ -193,12 +193,26 @@ const SettlementSummary = () => {
                         </div>
                     </Space>
                 </Col>
-                <Col xs={24} md={12} style={{ textAlign: 'right' }}>
-                    <Badge count="Automation Ready" color="#25D366">
+                <Col xs={24} md={12}>
+                    <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'flex-end', gap: 8, paddingRight: 8 }}>
+                        <Badge
+                            count={<span style={{ fontWeight: 600, fontSize: 14 }}>Automation Ready</span>}
+                            color="#25D366"
+                            style={{
+                                background: '#25D366', // WhatsApp green
+                                borderRadius: 8,
+                                padding: '0 12px',
+                                minWidth: 120,
+                                whiteSpace: 'nowrap',
+                                boxShadow: '0 1px 4px rgba(0,0,0,0.08)',
+                                border: '1px solid #128C7E', // WhatsApp dark green border
+                                color: '#fff', // white text for contrast
+                            }}
+                        />
                         <Tag icon={<ClockCircleOutlined />} color="processing" style={{ padding: '4px 12px', borderRadius: 8 }}>
                             Last Sync: {dayjs().format('HH:mm A')}
                         </Tag>
-                    </Badge>
+                    </div>
                 </Col>
             </Row>
 
